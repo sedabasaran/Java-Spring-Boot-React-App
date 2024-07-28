@@ -1,3 +1,9 @@
+The master branch contains the React Frontend. Master dalı React Frontend'i içerir.
+The main branch contains the Java Backend. Main dalı Java Backend'i içerir.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
